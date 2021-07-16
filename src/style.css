@@ -1,0 +1,20 @@
+.btn{
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    border-radius: 2px;
+}
+.btn:hover{
+    padding: 10px 20px;
+    background-color: rgb(35, 35, 223);
+    color: white;
+    border-radius: 2px;
+}
+.err{
+    color: red;
+}
+.Form{
+    max-width: 300px;
+    margin: 0 auto;
+    text-align: start;
+}
